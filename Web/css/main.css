@@ -1,0 +1,44 @@
+ /* 
+    Document   : styles
+    Created on : Apr 9, 2013, 7:55:47 PM
+    Author     : jeremielitzler
+    Description:
+        Purpose of the stylesheet follows.
+*/
+/* Generic custom CSS - Start */
+body, input{font-family: Book Antiqua, Arial, sans-serif;background-color: #fff;font-size: medium;}
+header{}
+img#logo{margin-top: 10px;}
+a#logout img{width: 20px;color: #FFF;}
+
+/*Table Styling*/
+.table {
+  border-collapse: collapse;
+  border: 1px solid #ddd;
+}
+.rowData, .rowHeader{
+    display: -webkit-box;
+    display: -moz-box;
+    padding-top: 0.3em;
+    border-bottom: 1px solid #ddd;
+}
+.icon img{margin-top: 0.2em;}
+.icon img:hover{
+    background-color: #dfeffc;
+}
+.table input, .table select, .table span {width: 90%;}
+.table input{margin-top: -2px; line-height: 16px; border: 1px solid #CCC;}
+.table select{margin-top: -2px;}
+.rowData li{line-height: 25px;}
+/*.tableData li{line-height: 25px;}*/
+
+/* account table specific styling */
+.accounts .icon{width: 3%}
+.accounts .c1{width: 30%}
+.accounts .c2{width: 40%}
+.accounts .c3{width: 5%}
+.accounts .c4, .accounts .c5{width: 12%}
+.accounts .c4 input{width: 75px;}
+
+/*Clear class*/
+.clear{margin: 0; padding: 0;clear:both;visibility: hidden;}

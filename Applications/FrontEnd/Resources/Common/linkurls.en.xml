@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <resource key="home_url">home</resource>
+  <resource key="about_url">about</resource>
+  <resource key="resume_url">resume</resource>
+  <resource key="contact_url">contact</resource>
+</resources>

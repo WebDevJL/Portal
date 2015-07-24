@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    Tout est dans mon CV !
+  </resource>
+  <resource key="paragraph_1">
+    Mon experience, mes compétences techniques, ma formation, et bien plus.
+  </resource>
+  <resource key="paragraph_2">
+    Une question ou clarification ? Ou simplement une réaction à quelque chose que vous avez lu ?
+  </resource>
+  <resource key="resume_link_text">
+    Téléchargez-le »
+  </resource>
+  <resource key="resume_link_ext_url">https://www.dropbox.com/s/c78279t3317qgno/CV-Jeremie-Website-FR.pdf</resource>
+  <resource key="contact_link_text">
+    Dîtes-moi tout »
+  </resource>
+</resources>

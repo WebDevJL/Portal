@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    Résoudre des problèmes. Trouver les solutions.
+  </resource>
+  <resource key="paragraph_1">
+    Cher visiteur, bienvenue ! Merci d’avoir choisi de visiter mon espace web personnel. 
+    Sûrement, vous connaissez quelques faits à mon sujet, mais laissez-moi vous donner un résumé rafraichissant.
+  </resource>
+  <resource key="paragraph_2">
+    Je suis un jeune, motivé et passionné programmeur Web spécialisé, non seulement dans la bibliothèque .Net et programmation C#, mais aussi les technologies comme PHP et JavaScript.
+  </resource>
+  <resource key="paragraph_3">
+    Après avoir travaillé plus de 4 ans pour Trust5 à Dublin en Irlande, une petite société partenaire d’EA Mobile, j’ai rejoint en 2013 Trépia, une SSII basée à Paris et Lyon, pour commencer une mission longue avec Xerox Transports Inc. à Valence.
+  </resource>
+  <resource key="paragraph_4">
+    Ma vie professionnelle trouve sa source de motivation et d'inspiration à travers des innombrables personnes et intérêts : ma fiancée et future femme, mes vélos, mon ukulele, mon appareil photo, ma cuisine, mes chansons et partitions, mes lunettes de soleil, mes chaussures de randonnée et bien plus.
+  </resource>
+  <resource key="resume_link_text">
+    Mon CV »
+  </resource>
+</resources>

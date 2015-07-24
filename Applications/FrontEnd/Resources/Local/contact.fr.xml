@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    Vous souhaitez me contacter ? C'est par ici :
+  </resource>
+  <resource key="input_1_placeholder">Nom</resource>
+  <resource key="input_2_placeholder">Courriel</resource>
+  <resource key="input_3_placeholder">Votre message</resource>
+  <resource key="submit_link_text">
+    C'est parti »
+  </resource>
+</resources>

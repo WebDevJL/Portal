@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    Solving problems. Finding solutions.
+  </resource>
+  <resource key="paragraph_1">
+    This is how I start a project and how I end it.
+    As a web developer, my goal is to solve every problem I face while understanding the solution and improving the system.
+      </resource>
+  <resource key="paragraph_2">
+    My reward is that I can always be sure I will never run out of problems and that my mind will be tried for patience, logic and determination.
+    The variety of technologies on the Web is so great that I have a real and fascinating challenge.
+  </resource>
+  <resource key="h3_emphasis">
+    This is rewarding.
+  </resource>
+  <resource key="about_link_text">
+    Learn more »
+  </resource>
+  <resource key="about_link_url">
+    about
+  </resource>
+</resources>

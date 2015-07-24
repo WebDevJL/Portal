@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    Want to get hold of me? It starts down here:
+  </resource>
+  <resource key="input_1_placeholder">Name</resource>
+  <resource key="input_2_placeholder">Email</resource>
+  <resource key="input_3_placeholder">Your message</resource>
+  <resource key="paragraph_2">
+    A question or clarification? Or a comment?
+  </resource>
+  <resource key="submit_link_text">
+    Send this to me »
+  </resource>
+</resources>

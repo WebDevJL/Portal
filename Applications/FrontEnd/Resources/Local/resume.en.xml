@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <resource key="h3_title">
+    All will be inside my resume!
+  </resource>
+  <resource key="paragraph_1">
+    My experience, my technical skills, my training, and more.
+  </resource>
+  <resource key="paragraph_2">
+    A question or clarification? Or a comment?
+  </resource>
+  <resource key="resume_link_text">
+    Download it »
+  </resource>
+  <resource key="resume_link_ext_url">https://www.dropbox.com/s/trkold5eq6gel8g/CV-Jeremie-Website-EN.docx</resource>
+  <resource key="contact_link_text">
+    Tell me »
+  </resource>
+</resources>
