@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <resources>
   <resource key="h3_title">
-    Dear visitor, welcome!
+    Who am I?
   </resource>
-  <resource key="paragraph_1">
-    Thank you for visiting my personal web space. Maybe you know something about me already but let me give you a refreshing summary.
-  </resource>
+  <resource key="paragraph_1"></resource>
   <resource key="paragraph_2">
     I am a young, motivated and passionate Web developer specialized not only in the .Net framework and C# development 
           but also the open source technologies like PHP and JavaScript.
